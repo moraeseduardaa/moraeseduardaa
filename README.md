@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/moraeseduardaa/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 </div>
 
