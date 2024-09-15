@@ -1,4 +1,4 @@
-## Oii! Eu sou a Eduarda Moraes.
+## Eduarda Moraes
 
 <div>
 <a href="https://github.com/moraeseduardaa/github-readme-stats">
