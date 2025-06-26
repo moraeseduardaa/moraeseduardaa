@@ -21,6 +21,7 @@
 
 
 <div>
+  <p>
   <a href="https://instagram.com/mo_xduda" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -28,7 +29,7 @@
   <a href="https://linkedin.com/in/eduarda-moraess" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+</p>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
