@@ -1,13 +1,12 @@
-##Eduarda 
+# 👋 Olá! Eu sou a Eduarda Moraes
 
-<div>
-<a href="https://github.com/moraeseduardaa/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
-</div>
+🎯 Estudante de Engenharia de Software, apaixonada por transformar ideias em soluções com tecnologia.
 
-<div>
-  <a href="https://instagram.com/mo_xduda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:moraeseduarda72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/eduarda-moraes-286602227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+💻 Atualmente explorando o universo do **Front-End**, interfaces interativas.
+
+🎮 Curiosa pelo desenvolvimento de **jogos** e aplicações criativas que unem lógica e design.
+
+🚀 Em constante aprendizado e sempre buscando desafios que me façam evoluir.
+
+📫 Vamos conectar?  
+[LinkedIn](https://www.linkedin.com/in/seu-link-aqui) • [Portfólio](https://seu-portfolio-aqui.vercel.app) • [Email](mailto:seu-email@exemplo.com)
