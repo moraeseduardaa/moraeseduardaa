@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeseduardaa&layout=compact&langs_count=16&title_color=ff1aff&text_color=8080ff&bg_color=00000000&border_color=ffffff"/>
 </div>
 
-#
-
 <div style="display: inline_block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
