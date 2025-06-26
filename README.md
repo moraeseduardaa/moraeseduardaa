@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=radical&count_private=true&bg_color=00000000"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=outrun&count_private=true&bg_color=00000000"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=jolly&count_private=true&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&count_private=true&title_color=ff69b4&text_color=9b59b6&icon_color=ff69b4&bg_color=00000000&border_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&count_private=true&title_color=ff69b4&text_color=ff64da&icon_color=ff69b4&bg_color=00000000&border_color=00000000"/>
 
 
   
