@@ -9,5 +9,6 @@
 <div>
   <a href="https://github.com/moraeseduardaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username-moraeseduardaa&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
+    ![Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=dracula&include_all_commits-true&count_private-true)
 </div>
 
