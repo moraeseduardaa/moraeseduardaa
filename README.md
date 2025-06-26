@@ -6,6 +6,8 @@
 
 🚀 Em constante aprendizado e sempre buscando desafios que me façam evoluir.
 
+--
+
 ### 🌐 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mo_xduda)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduarda-moraess)
