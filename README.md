@@ -12,4 +12,4 @@
 
 ### 📊 GitHub Stats
 
-[![Eduarda Morae's GitHub Stats](https://github-profile-trophy.vercel.app/?username=**moraeseduardaa**&theme=radical)](https://github.com/moraeseduardaa)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moraeseduardaa&theme=tokyonight) 
