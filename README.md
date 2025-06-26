@@ -4,8 +4,6 @@
 
 💻 Atualmente explorando o universo do **Front-End**, desenvolvimento de jogos e interfaces interativas criativas que unem lógica e design.
 
-🎮 Curiosa pelo desenvolvimento de **jogos** e aplicações criativas que unem lógica e design.
-
 🚀 Em constante aprendizado e sempre buscando desafios que me façam evoluir.
 
 ### 🌐 Redes Sociais
