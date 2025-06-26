@@ -4,7 +4,5 @@
 
 💻 Atualmente explorando o universo do **Front-End**, desenvolvendo jogos e interfaces interativas criativas que unem lógica e design.
 
-🚀 Em constante aprendizado e sempre buscando desafios que me façam evoluir.
-
 ![Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=dracula&include_all_commits-true&count_private-true)
 ![Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username-moraeseduardaa&layout-compact&langs_count-16&theme-dracula)
