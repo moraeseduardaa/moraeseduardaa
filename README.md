@@ -2,7 +2,7 @@
 
 🎯 Estudante de Engenharia de Software, apaixonada por transformar ideias em soluções com tecnologia.
 
-💻 Atualmente explorando o universo do **Front-End**, interfaces interativas.
+💻 Atualmente explorando o universo do **Front-End**, desenvolvimento de jogos e interfaces interativas criativas que unem lógica e design.
 
 🎮 Curiosa pelo desenvolvimento de **jogos** e aplicações criativas que unem lógica e design.
 
