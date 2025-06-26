@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Eduarda Moraes
+# Olá! Eu sou a Eduarda Moraes
 
 🎯 Estudante de Engenharia de Software, apaixonada por transformar ideias em soluções com tecnologia.
 
@@ -10,6 +10,5 @@
 
 ### 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mo_xduda)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduarda-moraess)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mo_xduda)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduarda-moraess)
 
