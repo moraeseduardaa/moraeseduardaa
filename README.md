@@ -19,8 +19,6 @@
 
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduarda-moraess)
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eduarda-moraess" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/eduarda-moraess?trk=profile-badge">Eduarda Moraes</a></div>
               
 
 
