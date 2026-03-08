@@ -1,5 +1,6 @@
 # 👩🏼‍💻 Eduarda Moraes
-Me chamo Eduarda Moraes, tenho 20 anos. Atualmente estou cursando Engenharia de Software, no 5º semestre, e venho direcionando minha formação para o desenvolvimento web. Tenho experiência com Java e Spring Boot, e atualmente estou aprofundando meus conhecimentos em desenvolvimento backend com Java, ao mesmo tempo em que sigo atuando no universo Front-End. Sou apaixonada por tecnologia e por transformar ideias em soluções reais por meio da programação.
+
+Me chamo Eduarda Moraes, tenho 20 anos e atualmente curso Engenharia de Software (5º semestre), direcionando minha formação para desenvolvimento web. Tenho experiência com Java e Spring Boot e estou aprofundando meus conhecimentos em desenvolvimento backend, enquanto sigo atuando no universo Front-End. Sou apaixonada por tecnologia e por transformar ideias em soluções reais por meio da programação.
 
 
 <div>
