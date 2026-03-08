@@ -1,4 +1,4 @@
-# Olá! Sou a Eduarda Moraes
+# 👩🏼‍💻 Eduarda Moraes
 
 🎓 Estudante de Engenharia de Software, apaixonada por transformar ideias em soluções com tecnologia.
 
