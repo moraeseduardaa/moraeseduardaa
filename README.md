@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Software Engineering</h4>
+<h4 align="center">Engenharia de Software</h4>
 
 ###
 
