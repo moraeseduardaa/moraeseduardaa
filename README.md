@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">👩‍💻  Eduarda Moraes</h1>
+<h1 align="center">Eduarda Moraes</h1>
 
 ###
 
