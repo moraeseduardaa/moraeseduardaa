@@ -1,3 +1,8 @@
+<div>
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+</div>
+
 <div align="center">
   <a href="www.linkedin.com/in/eduarda-moraess" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
