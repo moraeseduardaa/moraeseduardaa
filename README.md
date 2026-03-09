@@ -1,14 +1,3 @@
-<div>
-  <img width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:4FACFE,50:7B2FF7,100:F857A6" />
-</div>
-
-<div>
-  <img width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=0:4FACFE,25:38A3F1,50:7B2FF7,75:C850C0,100:F857A6" />
-</div>
-
----
 <div> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" /> 
 </div>
