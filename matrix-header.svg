@@ -6,16 +6,17 @@
 
   <defs>
 
-    <!-- Gradiente do código -->
-    <linearGradient id="purpleRain"
-                    x1="0"
-                    y1="0"
-                    x2="0"
-                    y2="1">
+    <!-- Gradiente da chuva Matrix -->
+    <linearGradient
+      id="purpleRain"
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="1">
 
       <stop offset="0%" stop-color="#c084fc" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#c084fc" stop-opacity="0.35"/>
-      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.75"/>
+      <stop offset="25%" stop-color="#c084fc" stop-opacity="0.4"/>
+      <stop offset="55%" stop-color="#a855f7" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
 
     </linearGradient>
@@ -28,15 +29,13 @@
         result="blur"/>
 
       <feMerge>
-
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
-
       </feMerge>
 
     </filter>
 
-    <!-- Brilho mais forte -->
+    <!-- Brilho forte do nome -->
     <filter id="strongGlow">
 
       <feGaussianBlur
@@ -44,25 +43,13 @@
         result="blur"/>
 
       <feMerge>
-
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
-
       </feMerge>
 
     </filter>
 
   </defs>
-
-
-  <!-- ================================================= -->
-  <!-- FUNDO -->
-  <!-- ================================================= -->
-
-  <rect
-    width="1200"
-    height="300"
-    fill="#050505"/>
 
 
   <!-- ================================================= -->
@@ -326,7 +313,7 @@
 
 
   <!-- ================================================= -->
-  <!-- MATRIX - LADO DIREITO -->
+  <!-- MATRIX - COLUNA DIREITA 1 -->
   <!-- ================================================= -->
 
   <g
@@ -521,20 +508,6 @@
     </text>
 
   </g>
-
-
-  <!-- ================================================= -->
-  <!-- ÁREA CENTRAL ESCURA -->
-  <!-- ================================================= -->
-
-  <rect
-    x="300"
-    y="70"
-    width="600"
-    height="150"
-    rx="20"
-    fill="#050505"
-    opacity="0.78"/>
 
 
   <!-- ================================================= -->
