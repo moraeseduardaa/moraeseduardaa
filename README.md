@@ -21,7 +21,8 @@ cada projeto em uma oportunidade para evoluir.
 </div>
 
 <div align="center">
-### 💻 Tecnologias & Ferramentas
+
+<h3>💻 Tecnologias & Ferramentas</h3>
 
 <br>
 
