@@ -1,564 +1,237 @@
-<svg
-  width="1200"
-  height="300"
-  viewBox="0 0 1200 300"
-  xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="300"
+     viewBox="0 0 1200 300">
 
-  <defs>
+  <style>
+    .matrix {
+      font-family: monospace;
+      font-size: 16px;
+      fill: #a855f7;
+      opacity: 0.55;
+    }
 
-    <!-- Gradiente da chuva Matrix -->
-    <linearGradient
-      id="purpleRain"
-      x1="0"
-      y1="0"
-      x2="0"
-      y2="1">
+    .bright {
+      fill: #c084fc;
+      opacity: 0.8;
+    }
 
-      <stop offset="0%" stop-color="#c084fc" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#c084fc" stop-opacity="0.4"/>
-      <stop offset="55%" stop-color="#a855f7" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
+    .name {
+      font-family: monospace;
+      font-size: 48px;
+      font-weight: bold;
+      letter-spacing: 3px;
+      fill: white;
+    }
 
-    </linearGradient>
-
-    <!-- Brilho do texto -->
-    <filter id="glow">
-
-      <feGaussianBlur
-        stdDeviation="4"
-        result="blur"/>
-
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-
-    </filter>
-
-    <!-- Brilho forte do nome -->
-    <filter id="strongGlow">
-
-      <feGaussianBlur
-        stdDeviation="7"
-        result="blur"/>
-
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-
-    </filter>
-
-  </defs>
+    .subtitle {
+      font-family: monospace;
+      font-size: 16px;
+      font-weight: bold;
+      letter-spacing: 4px;
+      fill: #c084fc;
+    }
+  </style>
 
 
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA 1 -->
-  <!-- ================================================= -->
+  <!-- MATRIX ESQUERDA -->
 
-  <g
-    font-family="monospace"
-    font-size="16"
-    fill="url(#purpleRain)">
+  <g class="matrix">
 
-    <text x="25" y="-20">
-      101001
-      <animate
-        attributeName="y"
-        from="-100"
-        to="350"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="25" y="20">
-      010110
-      <animate
-        attributeName="y"
-        from="-60"
-        to="390"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="25" y="60">
-      110010
-      <animate
-        attributeName="y"
-        from="-20"
-        to="430"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="25" y="100">
-      001101
-      <animate
-        attributeName="y"
-        from="20"
-        to="470"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA 2 -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="15"
-    fill="#a855f7">
-
-    <text x="100" y="-40">
-      011010
-      <animate
-        attributeName="y"
-        from="-150"
-        to="350"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="100" y="0">
-      101101
-      <animate
-        attributeName="y"
-        from="-110"
-        to="390"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="100" y="40">
-      110011
-      <animate
-        attributeName="y"
-        from="-70"
-        to="430"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="100" y="80">
-      010101
-      <animate
-        attributeName="y"
-        from="-30"
-        to="470"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA 3 -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="17"
-    fill="#c084fc">
-
-    <text x="190" y="-30">
-      100101
-      <animate
-        attributeName="y"
-        from="-180"
-        to="350"
-        dur="4.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="190" y="15">
-      011011
-      <animate
-        attributeName="y"
-        from="-135"
-        to="395"
-        dur="4.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="190" y="60">
+    <text x="30" y="-20">
       101010
-      <animate
-        attributeName="y"
-        from="-90"
-        to="440"
-        dur="4.5s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-100"
+               to="350"
+               dur="4s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="190" y="105">
-      001110
-      <animate
-        attributeName="y"
-        from="-45"
-        to="485"
-        dur="4.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA 4 -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="15"
-    fill="#6d28d9">
-
-    <text x="285" y="-50">
-      110101
-      <animate
-        attributeName="y"
-        from="-200"
-        to="350"
-        dur="7s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="285" y="0">
-      001011
-      <animate
-        attributeName="y"
-        from="-150"
-        to="400"
-        dur="7s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="285" y="50">
-      101100
-      <animate
-        attributeName="y"
-        from="-100"
-        to="450"
-        dur="7s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="285" y="100">
-      010010
-      <animate
-        attributeName="y"
-        from="-50"
-        to="500"
-        dur="7s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA 5 -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="16"
-    fill="#a855f7">
-
-    <text x="390" y="-40">
-      010101
-      <animate
-        attributeName="y"
-        from="-250"
-        to="350"
-        dur="5.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="390" y="10">
-      110010
-      <animate
-        attributeName="y"
-        from="-200"
-        to="400"
-        dur="5.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="390" y="60">
-      001101
-      <animate
-        attributeName="y"
-        from="-150"
-        to="450"
-        dur="5.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="390" y="110">
-      101011
-      <animate
-        attributeName="y"
-        from="-100"
-        to="500"
-        dur="5.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA DIREITA 1 -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="16"
-    fill="#a855f7">
-
-    <text x="760" y="-30">
-      101010
-      <animate
-        attributeName="y"
-        from="-180"
-        to="350"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="760" y="20">
+    <text x="90" y="-80">
       011001
-      <animate
-        attributeName="y"
-        from="-130"
-        to="400"
-        dur="5s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-180"
+               to="350"
+               dur="5s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="760" y="70">
+    <text x="150" y="-40">
       110101
-      <animate
-        attributeName="y"
-        from="-80"
-        to="450"
-        dur="5s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-140"
+               to="350"
+               dur="6s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="760" y="120">
-      001010
-      <animate
-        attributeName="y"
-        from="-30"
-        to="500"
-        dur="5s"
-        repeatCount="indefinite"/>
+    <text x="220" y="-100">
+      001101
+      <animate attributeName="y"
+               from="-200"
+               to="350"
+               dur="4.5s"
+               repeatCount="indefinite"/>
     </text>
 
-  </g>
+    <text x="280" y="-60">
+      101100
+      <animate attributeName="y"
+               from="-160"
+               to="350"
+               dur="5.5s"
+               repeatCount="indefinite"/>
+    </text>
 
-
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA DIREITA 2 -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="15"
-    fill="#c084fc">
-
-    <text x="850" y="-60">
+    <text x="340" y="-120">
       010011
-      <animate
-        attributeName="y"
-        from="-220"
-        to="350"
-        dur="6.5s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-220"
+               to="350"
+               dur="6.5s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="850" y="-10">
+  </g>
+
+
+  <!-- MATRIX DIREITA -->
+
+  <g class="matrix">
+
+    <text x="820" y="-40">
       101101
-      <animate
-        attributeName="y"
-        from="-170"
-        to="400"
-        dur="6.5s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-140"
+               to="350"
+               dur="5s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="850" y="40">
-      011010
-      <animate
-        attributeName="y"
-        from="-120"
-        to="450"
-        dur="6.5s"
-        repeatCount="indefinite"/>
+    <text x="880" y="-100">
+      010110
+      <animate attributeName="y"
+               from="-200"
+               to="350"
+               dur="6s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="850" y="90">
+    <text x="940" y="-20">
       110010
-      <animate
-        attributeName="y"
-        from="-70"
-        to="500"
-        dur="6.5s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-120"
+               to="350"
+               dur="4s"
+               repeatCount="indefinite"/>
     </text>
 
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MATRIX - COLUNA DIREITA 3 -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="17"
-    fill="#6d28d9">
-
-    <text x="950" y="-40">
-      101100
-      <animate
-        attributeName="y"
-        from="-200"
-        to="350"
-        dur="4s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="950" y="10">
+    <text x="1000" y="-80">
       001011
-      <animate
-        attributeName="y"
-        from="-150"
-        to="400"
-        dur="4s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-180"
+               to="350"
+               dur="5.5s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="950" y="60">
-      110101
-      <animate
-        attributeName="y"
-        from="-100"
-        to="450"
-        dur="4s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="950" y="110">
-      010010
-      <animate
-        attributeName="y"
-        from="-50"
-        to="500"
-        dur="4s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MATRIX - EXTREMA DIREITA -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="monospace"
-    font-size="16"
-    fill="#a855f7">
-
-    <text x="1080" y="-30">
-      011001
-      <animate
-        attributeName="y"
-        from="-170"
-        to="350"
-        dur="5.8s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text x="1080" y="25">
+    <text x="1060" y="-40">
       101010
-      <animate
-        attributeName="y"
-        from="-115"
-        to="405"
-        dur="5.8s"
-        repeatCount="indefinite"/>
+      <animate attributeName="y"
+               from="-140"
+               to="350"
+               dur="4.5s"
+               repeatCount="indefinite"/>
     </text>
 
-    <text x="1080" y="80">
-      110011
-      <animate
-        attributeName="y"
-        from="-60"
-        to="460"
-        dur="5.8s"
-        repeatCount="indefinite"/>
+    <text x="1120" y="-120">
+      011101
+      <animate attributeName="y"
+               from="-220"
+               to="350"
+               dur="6.5s"
+               repeatCount="indefinite"/>
     </text>
 
   </g>
 
 
-  <!-- ================================================= -->
+  <!-- CÓDIGO MAIS PRÓXIMO DO CENTRO -->
+
+  <g class="bright">
+
+    <text x="410" y="-30">
+      {JAVA}
+      <animate attributeName="y"
+               from="-150"
+               to="350"
+               dur="5s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="470" y="-100">
+      &lt;/&gt;
+      <animate attributeName="y"
+               from="-220"
+               to="350"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="730" y="-60">
+      {CODE}
+      <animate attributeName="y"
+               from="-180"
+               to="350"
+               dur="5.5s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="790" y="-120">
+      &lt;/&gt;
+      <animate attributeName="y"
+               from="-240"
+               to="350"
+               dur="4.5s"
+               repeatCount="indefinite"/>
+    </text>
+
+  </g>
+
+
   <!-- NOME -->
-  <!-- ================================================= -->
 
   <text
+    class="name"
     x="600"
     y="135"
-    text-anchor="middle"
-    font-family="JetBrains Mono, monospace"
-    font-size="48"
-    font-weight="700"
-    letter-spacing="3"
-    fill="#ffffff"
-    filter="url(#strongGlow)">
+    text-anchor="middle">
 
     EDUARDA MORAES
 
   </text>
 
 
-  <!-- ================================================= -->
   <!-- SUBTÍTULO -->
-  <!-- ================================================= -->
 
   <text
+    class="subtitle"
     x="600"
     y="170"
-    text-anchor="middle"
-    font-family="JetBrains Mono, monospace"
-    font-size="17"
-    font-weight="700"
-    letter-spacing="4"
-    fill="#c084fc"
-    filter="url(#glow)">
+    text-anchor="middle">
 
     SOFTWARE ENGINEERING
 
   </text>
 
 
-  <!-- ================================================= -->
   <!-- CURSOR -->
-  <!-- ================================================= -->
 
   <rect
-    x="815"
+    x="810"
     y="151"
-    width="10"
-    height="22"
+    width="9"
+    height="20"
     fill="#c084fc">
 
     <animate
@@ -568,33 +241,5 @@
       repeatCount="indefinite"/>
 
   </rect>
-
-
-  <!-- ================================================= -->
-  <!-- LINHA INFERIOR -->
-  <!-- ================================================= -->
-
-  <line
-    x1="400"
-    y1="200"
-    x2="800"
-    y2="200"
-    stroke="#a855f7"
-    stroke-width="1"
-    opacity="0.7">
-
-    <animate
-      attributeName="x1"
-      values="400;450;400"
-      dur="3s"
-      repeatCount="indefinite"/>
-
-    <animate
-      attributeName="x2"
-      values="800;750;800"
-      dur="3s"
-      repeatCount="indefinite"/>
-
-  </line>
 
 </svg>
