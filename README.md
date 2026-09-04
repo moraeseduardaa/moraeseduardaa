@@ -20,7 +20,6 @@ e vontade de transformar ideias em soluções através do código. Atualmente, v
 Java, Spring Boot, JavaScript, desenvolvimento Web e bancos de dados. Gosto de aprender na prática, explorar novas tecnologias e transformar
 cada projeto em uma oportunidade para evoluir.
 </p>
-
 </div>
 
 ### 💻 Tecnologias & Ferramentas
@@ -42,47 +41,6 @@ cada projeto em uma oportunidade para evoluir.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-
-</div>
-
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=midnight-purple"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeseduardaa&layout=compact&theme=midnight-purple"/>
-
-</div>
-
-<br>
-
-<br>
-
-### 🐍 Contributions
-
-<div align="center">
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/moraeseduardaa/moraeseduardaa/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/moraeseduardaa/moraeseduardaa/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/moraeseduardaa/moraeseduardaa/output/github-contribution-grid-snake.svg"
-  />
-
-</picture>
 
 </div>
 
