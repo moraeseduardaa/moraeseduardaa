@@ -8,8 +8,6 @@
 
 <br>
 
-### 👩🏼‍💻 SOBRE MIM
-
 <div align="center">
 
 <p>
@@ -49,16 +47,17 @@ cada projeto em uma oportunidade para evoluir.
 
 <br>
 
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraeseduardaa&show_icons=true&theme=midnight-purple"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeseduardaa&layout=compact&langs_count=8&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeseduardaa&layout=compact&theme=midnight-purple"/>
 
 </div>
+
+<br>
 
 <br>
 
@@ -66,23 +65,32 @@ cada projeto em uma oportunidade para evoluir.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/moraeseduardaa/moraeseduardaa/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/moraeseduardaa/moraeseduardaa/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/moraeseduardaa/moraeseduardaa/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/moraeseduardaa/moraeseduardaa/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
 
 <br>
 
-### 🌐 Vamos nos conectar?
-
 <div align="center">
 
-<a href="https://github.com/moraeseduardaa">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/eduarda-moraess">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/moraeseduardaa"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/eduarda-moraess"> <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 </div>
 
