@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:6d28d9,100:a855f7&text=EDUARDA%20MORAES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:6d28d9,100:a855f7&text=EDUARDA%20MORAES&fontSize=48&fontColor=ffffff&fontFamily=JetBrains%20Mono&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=INICIALIZANDO...;ENGENHARIA+DE+SOFTWARE;DESENVOLVIMENTO+WEB;JAVA+%7C+SPRING+BOOT;CODIFICANDO+NOVAS+IDEIAS..."/>
 
