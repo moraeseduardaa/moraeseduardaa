@@ -20,9 +20,10 @@ cada projeto em uma oportunidade para evoluir.
 </p>
 </div>
 
+<div align="center">
 ### 💻 Tecnologias & Ferramentas
 
-<div align="center">
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
 &nbsp;&nbsp;&nbsp;
