@@ -6,10 +6,6 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=INICIALIZANDO...;ENGENHARIA+DE+SOFTWARE;DESENVOLVIMENTO+WEB;JAVA+%7C+SPRING+BOOT;CODIFICANDO+NOVAS+IDEIAS..."/>
-
-</div>
-
 <div align="center">
 
 <p>
